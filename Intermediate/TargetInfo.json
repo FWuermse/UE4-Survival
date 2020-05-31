@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Survival",
+			"Path": "C:\\Users\\Florian\\Documents\\Unreal Projects\\Survival\\Source\\Survival.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SurvivalEditor",
+			"Path": "C:\\Users\\Florian\\Documents\\Unreal Projects\\Survival\\Source\\SurvivalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

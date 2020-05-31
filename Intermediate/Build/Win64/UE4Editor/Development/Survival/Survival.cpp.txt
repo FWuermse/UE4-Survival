@@ -1,0 +1,2 @@
+C:\Users\Florian\Documents\Unreal Projects\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\Definitions.Survival.h
+C:\Users\Florian\Documents\Unreal Projects\Survival\Source\Survival\Survival.h
